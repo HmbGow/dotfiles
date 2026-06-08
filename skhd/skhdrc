@@ -1,0 +1,10 @@
+
+# App Shortcuts
+alt - c : open -a 'Visual Studio Code'
+alt - t : open -a 'Ghostty'
+alt - w : open -a 'WhatsApp'
+alt - i : open -a 'Insomnia'
+alt - s : open -a 'Spotify'
+alt + shift - s : open -a 'Safari'
+alt + shift - c : open -a 'Google Chrome'
+alt + shift - t : open -a 'Microsoft Teams'
