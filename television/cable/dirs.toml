@@ -7,7 +7,7 @@ requirements = ["fd"]
 command = ["fd -t d", "fd -t d --hidden"]
 
 [preview]
-command = "eza -la --color=always '{}'"
+command = "eza --tree -L 2 --icons '{}'"
 
 [keybindings]
 shortcut = "f2"
